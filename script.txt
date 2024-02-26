@@ -1,0 +1,3 @@
+In this video we are going to talk about pointers in C.
+Many people begining to learn C find it wery hard to wrap
+their head around pointers
